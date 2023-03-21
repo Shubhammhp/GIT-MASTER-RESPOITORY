@@ -4,3 +4,8 @@ master PHONE
 mode 
 
 median
+
+
+mode 
+mode
+mode
