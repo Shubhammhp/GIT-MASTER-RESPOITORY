@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 IPHONE
-=======
-SAMSUNG
->>>>>>> musicPlayer
 
+SAMSUNG
 
 mode 
 
