@@ -1,4 +1,4 @@
-master PHONE
+SAMSUNG
 
 
 mode 
